@@ -1,4 +1,4 @@
-# foodelivery
+# fooddeliv
 
 The deli-food project created in flutter (v3.0.4-stable). deli-food supports both web and mobile.
 
